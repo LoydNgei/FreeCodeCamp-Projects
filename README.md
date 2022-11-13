@@ -1,0 +1,1 @@
+Upon completion of the FreeCodeCamp bootcamp on the responsive web design, I was required to build these web pages. They are all purely HTML and CSS. I would 100% recommend FreeCodeCamp to anyone who wants to learn or upgrade web development skills
